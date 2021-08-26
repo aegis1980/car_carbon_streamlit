@@ -1,2 +1,2 @@
-altair
+plotly
 streamlit
