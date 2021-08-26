@@ -80,7 +80,7 @@ in_service = {
 with st.echo(code_location='below'):
 
     st.header("Production")
-    mass_steel_car = st.slider("Mass of stell in car (kg)",
+    mass_steel_car = st.slider("Mass of steel in car (kg)",
         0,
         3000,
         900,
