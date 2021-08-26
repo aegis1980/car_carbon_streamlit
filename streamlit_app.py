@@ -6,9 +6,9 @@ import plotly.graph_objects as go
 """
 # CO2: Car steel production vs in-service
 
-Exploring Volvo's claim that 35% of a ICE car's CO2 production comes from steel production at manufacturing. 
+Exploring quoted claim [here](https://cleantechnica.com/2021/08/19/first-fossil-free-steel-delivered-to-volvo-cars-in-sweden/) that 35% of an internal combustion engine car's CO2 production comes from steel production at manufacturing. 
 
-I have gone with UK-based values with sources in the little question mark tooltips. 
+I have gone with UK-based values with sources jsut taking the top one Google throws out - see the little question mark tooltips by each slider. 
 
 Edit `/app.py` to customize this app to your heart's desire :heart: or play with the sliders below. 
 """
