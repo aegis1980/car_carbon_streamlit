@@ -87,13 +87,6 @@ with st.echo(code_location='below'):
         help='https://www.worldsteel.org/steel-by-topic/steel-markets/automotive.html'
     )
 
-    percent_steel = st.slider(
-        "Percentage steel, by weight (%)",
-        0,100,
-        65,
-        help = 'https://www.worldautosteel.org/life-cycle-thinking/recycling/'
-    )
-
     percent_recycled = st.slider(
         "% recycled steel",
         0,
