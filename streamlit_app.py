@@ -153,7 +153,7 @@ with st.echo(code_location='below'):
     fig.update_traces(hoverinfo='label+percent', textinfo='percent', textfont_size=20,
                     marker=dict(colors=colors, line=dict(color='#000000', width=2)))
 
-    st.header("CO2 balance (steel): Prodiction vs in-service")
+    st.header("CO2 balance (steel): Production vs in-service")
     st.plotly_chart(
         fig
     )
